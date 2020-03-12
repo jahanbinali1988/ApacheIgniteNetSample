@@ -1,0 +1,14 @@
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\bin\Debug\netcoreapp2.2\IgniteWebApi.deps.json
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\bin\Debug\netcoreapp2.2\IgniteWebApi.runtimeconfig.json
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\bin\Debug\netcoreapp2.2\IgniteWebApi.runtimeconfig.dev.json
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\bin\Debug\netcoreapp2.2\IgniteWebApi.dll
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\bin\Debug\netcoreapp2.2\IgniteWebApi.pdb
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.csproj.CoreCompileInputs.cache
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.RazorAssemblyInfo.cache
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.RazorAssemblyInfo.cs
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.AssemblyInfoInputs.cache
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.AssemblyInfo.cs
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.dll
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.pdb
+C:\Users\a.jahanbin\Documents\Visual Studio 2017\Projects\IgniteWebApi\IgniteWebApi\obj\Debug\netcoreapp2.2\IgniteWebApi.csprojAssemblyReference.cache
